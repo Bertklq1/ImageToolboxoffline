@@ -27,6 +27,5 @@ dependencies {
     implementation(projects.core.ui)
     implementation(projects.core.settings)
 
-    "marketImplementation"(libs.firebase.crashlytics.ktx)
-    "marketImplementation"(libs.firebase.analytics.ktx)
+    
 }
